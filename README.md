@@ -24,6 +24,7 @@ Options:
 
 ```bash
 hcl -n 3
+#F8766D
+#00BA38
+#619CFF
 ```
-
-\#F8766D #00BA38 #619CFF
