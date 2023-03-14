@@ -2,15 +2,16 @@
 
 Generate colors from the HCL color space.
 
-## Installation
-
-```bash
-gcc -lm hcl.c -o hcl
-```
-
 ## Usage
 
 ```bash
+git clone https://github.com/liu-congcong/HCL
+cd HCL
+gcc -lm hcl.c -o hcl
+```
+
+```bash
+hcl -h
 Generate colors from HCL color space (https://github.com/liu-congcong/HCL)
 Usage:
     hcl -n colors [-min 15.0] [-max 375.0] [-c 100.0] [-l 65.0]
