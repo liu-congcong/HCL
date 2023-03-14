@@ -20,7 +20,7 @@ Options:
     -min/--min-hue: <float> min value of hue (dominant wavelength)
     -max/--max-hue: <float> max value of hue (dominant wavelength)
     -c/--chroma: <float> colorfulness [0.0-100.0]
-    -l/--luminance: <float> brightness [0.0-100.0]\n
+    -l/--luminance: <float> brightness [0.0-100.0]
 ```
 
 ```bash
